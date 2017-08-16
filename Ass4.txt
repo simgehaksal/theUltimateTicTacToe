@@ -1,6 +1,6 @@
 #ifndef PLAYER_H
 #define PLAYER_H
-
+#degine max 5
 using namespace std;
 #include <iostream>
 
